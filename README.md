@@ -28,12 +28,6 @@
         alt="Medium Badge"
       />
     </a>
-    <div>
-      <img
-        src="https://komarev.com/ghpvc/?username=fsalasc&style=flat-square&color=red"
-        alt="fsalasc"
-      />
-    </div>
   </div>
   <div>
     <h3>Tech and Tools:</h3>
